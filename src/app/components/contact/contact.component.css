@@ -1,0 +1,15 @@
+.inputs input {
+border: none;
+border-bottom:1px solid rgba(128, 128, 128, 0.249) ;
+padding: 20px;
+left: 25%;
+}
+.inputs input:focus {
+  box-shadow: none;
+}
+button {
+    background-color: #1ABC9C !important;
+    color: white !important;
+    position: relative;
+    left: 25%;
+}
